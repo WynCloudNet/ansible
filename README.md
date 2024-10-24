@@ -1,1 +1,1 @@
-WynSOft Ansible Tutorial Follow Along
+WynSoft Ansible Tutorial Follow Along
